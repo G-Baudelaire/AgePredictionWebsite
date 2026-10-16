@@ -1,5 +1,7 @@
 # Age Prediction
 
+> 📦 **This repository has been archived.** The project is no longer maintained, and the hosted website has been taken down. The code is kept here for reference only.
+
 React + TypeScript single-page app for predicting a person’s **age** from a face photo.  
 This project is a **frontend only** and expects an external API to perform the actual prediction.
 
